@@ -4,6 +4,7 @@ public class mainclass {
             System.out.println("test"+i);
             //Test comment
             //Test comment
+//            somecomment
         }
     }
 }
