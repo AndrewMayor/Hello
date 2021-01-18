@@ -5,6 +5,7 @@ public class mainclass {
             //Test comment
             //Test comment
 //            somecomment
+            // more test
         }
     }
 }
